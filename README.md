@@ -38,5 +38,6 @@ Utilizar os prompts dentro do link do link do NotionA fazer uma Materiaispara cr
 
 ? ? Expert (
 
-![jc](https://github.com/user-attachments/assets/8a0800f1-74c8-47e6-ac2f-7575c0866234) Renato JC 
+![jc](https://github.com/user-attachments/assets/8a0800f1-74c8-47e6-ac2f-7575c0866234)  ![RENATO JC LOGO2](https://github.com/user-attachments/assets/71ebe370-4f52-4604-a128-bbb07382350f)
+
 
