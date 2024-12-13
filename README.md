@@ -1,12 +1,7 @@
 
 ![Pedro Álvares Cabral](https://github.com/user-attachments/assets/5138fa70-0d94-4c2c-82e6-9b2fda832007)
 
-# Podcast-Descobrimento-do-Brasil
-
-
-Projeto Podcast Gerado por I.A.s
-
-    i? NOTA: Este repositório é um pouco desenvolvido uma ao vivo no Youtube em parceria com a DIO
+# Podcast-Descobrimento-do-Brasil Projeto Podcast Gerado por I.A.s
 
 💻Projeto com o objetivo de um podcast utilizando ferramentas de IA através de ferramentas mais de trabalhado.
 
