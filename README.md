@@ -32,15 +32,15 @@ Utilizer uma esteira de prompts para o cada etapa do processo criativo.
 
 🛠️ des execução
 
-Utilizar os prompts dentro do link do link do NotionA fazer uma Materiaispara criar um podcast de forma automatizada, para isso siga o passo passo a passo.
+Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-    ? ? (.) Use os prompts de roteiro não chagpt
-    ? 2. Use os prompts de roteiro do pelogpt não ElevenLabs
-    ? 3. Use os prompts de artes não midjourney
+    🤖 1. Use os prompts de roteiro no chagpt
+    🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+    🤖 3. Use os prompts de artes no 
 
 
 👨‍💻 Expert 
 
-![jc](https://github.com/user-attachments/assets/8a0800f1-74c8-47e6-ac2f-7575c0866234)  ![RENATO JC LOGO2](https://github.com/user-attachments/assets/71ebe370-4f52-4604-a128-bbb07382350f)
+ ![RENATO JC LOGO2](https://github.com/user-attachments/assets/71ebe370-4f52-4604-a128-bbb07382350f)
 
 
