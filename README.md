@@ -36,7 +36,7 @@ Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para
 
     🤖 1. Use os prompts de roteiro no chagpt
     🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
-    🤖 3. Use os prompts de artes no 
+    🤖 3. Use os prompts de artes no leonardo.ai
 
 
 👨‍💻 Expert 
