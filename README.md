@@ -1,4 +1,8 @@
+
+![Pedro Álvares Cabral](https://github.com/user-attachments/assets/5138fa70-0d94-4c2c-82e6-9b2fda832007)
+
 # Podcast-Descobrimento-do-Brasil
+
 
 Projeto Podcast Gerado por I.A.s
 
@@ -10,15 +14,15 @@ Utilizer uma esteira de prompts para o cada etapa do processo criativo.
 ? Tecnologias no projeto
 
     ChatGPT em
-    MidJourney (Foia)
+    leonardo.ai
     ElevenLabs (tratos)
     Capcut (é)
 
 ✨ Como foi feito ?
 
     Roteiro via chatgpt
-    Áudio onze datraLabs
-    Midjourney Para gerars capas
+    Áudio  ElevenLabs
+    leonardo.ai Para gerars capas
     Capcut para tratar aú adicionardio e sons de fundo
 
 📚 Materiais
