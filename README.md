@@ -18,7 +18,7 @@ Utilizer uma esteira de prompts para o cada etapa do processo criativo.
     Roteiro via chatgpt
     Áudio  ElevenLabs
     leonardo.ai Para gerars capas
-    Capcut para tratar aú adicionardio e sons de fundo
+    Capcut para adicionar audio sons de fundo
 
 📚 Materiais
 
