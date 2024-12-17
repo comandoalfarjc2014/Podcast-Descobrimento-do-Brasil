@@ -23,7 +23,12 @@ Utilizer uma esteira de prompts para o cada etapa do processo criativo.
 📚 Materiais
 
     Link da ao vivo no Youtube
-    Editor de áudio  https://www.capcut.com/editor?scenario=custom
+    
+    Editor de áudio  
+https://www.capcut.com/editor?scenario=custom
+
+
+
 
 🛠️ Instruções de execução
 
