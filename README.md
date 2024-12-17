@@ -23,9 +23,9 @@ Utilizer uma esteira de prompts para o cada etapa do processo criativo.
 📚 Materiais
 
     Link da ao vivo no Youtube
-    Editor de áudio
-https://www.capcut.com/editor?scenario=custom
-🛠️ des execução
+    Editor de áudio  https://www.capcut.com/editor?scenario=custom
+
+🛠️ Instruções de execução
 
 Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
