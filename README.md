@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=Gb9dnPJAeRQ
 Utilize os prompts Materiais para criar um podcast,siga o passo a passo abaixo.
 
     🤖 1. Use os prompts de roteiro no chagpt
+    
 atue crie um roteiro do descobrimento do Brasil passo a passo 
     
     🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
