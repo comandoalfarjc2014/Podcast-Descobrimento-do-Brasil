@@ -30,10 +30,14 @@ https://www.youtube.com/watch?v=Gb9dnPJAeRQ
 
 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts Materiais para criar um podcast,siga o passo a passo abaixo.
 
     🤖 1. Use os prompts de roteiro no chagpt
+    
     🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+Olá, pessoal! Sejam muito bem-vindos a mais um episódio do  RJC, o seu ponto de encontro para reflexões sobre a história do Brasil. Eu sou RENATO JC, o seu anfitrião, e hoje estamos com um convidada muito especial que vai agregar muito valor à nossa conversa.Nossa convidada de hoje é uma referência quando falamos sobre doutorada em historia. Ela é 'autora de livros, 'especialista com 10 anos de experiência PhD em historia,palestrante reconhecido internacional,pesquisadora, e tem dedicado sua carreira com o propósito de ensina.Além disso, ela é conhecido,suas palestras envolventes,sua capacidade de descomplicar assuntos complexos,seu carisma e boas histórias,e hoje teremos a oportunidade de conhecer mais sobre sua jornada, seus desafios e o que ele enxerga para o futuro.
+Prepare-se porque o papo de hoje está imperdível! Vamos falar sobre Descobrimento do Brasil,então fique com a gente até o final porque tem muita coisa boa vindo por aí.Então, sem mais delongas, é com grande prazer que eu recebo aqui no RJC, ilustre doutora Jó Seja muito bem-vinda, é uma honra ter você com a gente hoje
+    
     🤖 3. Use os prompts de artes no leonardo.ai
 
 
