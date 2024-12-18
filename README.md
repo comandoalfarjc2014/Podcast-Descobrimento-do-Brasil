@@ -21,9 +21,8 @@ Utilizer uma esteira de prompts para o cada etapa do processo criativo.
     Capcut para adicionar audio sons de fundo
 
 📚 Materiais
+
 https://www.capcut.com/editor?scenario=custom
-
-
 https://www.youtube.com/watch?v=Gb9dnPJAeRQ
 
 
